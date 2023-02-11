@@ -8,7 +8,15 @@ namespace progect1
   {
     static void Main()
     {
-    Console.WriteLine("Hello");
+    // ДОБАВЛЕНИЕ КОМЕНТАРИЯ!
+    /*ДОБАВЛЕНЕ КОМЕНТАРИЯ В 
+    НЕСКОЛЬКО
+    СТРОК
+    */
+    Console.Write("Hello "); 
+    Console.Write("Hello1 ");
+    Console.Write("Hello11 ");
+    Console.Write("Hello111!");
     Console.ReadKey();
     }
   }
