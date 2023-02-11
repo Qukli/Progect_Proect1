@@ -1,0 +1,15 @@
+C:\Users\sergy\Desktop\Progect_Proect1\bin\Debug\net6.0\Progect_Proect1.exe
+C:\Users\sergy\Desktop\Progect_Proect1\bin\Debug\net6.0\Progect_Proect1.deps.json
+C:\Users\sergy\Desktop\Progect_Proect1\bin\Debug\net6.0\Progect_Proect1.runtimeconfig.json
+C:\Users\sergy\Desktop\Progect_Proect1\bin\Debug\net6.0\Progect_Proect1.dll
+C:\Users\sergy\Desktop\Progect_Proect1\bin\Debug\net6.0\Progect_Proect1.pdb
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.csproj.AssemblyReference.cache
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.AssemblyInfoInputs.cache
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.AssemblyInfo.cs
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.csproj.CoreCompileInputs.cache
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.dll
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\refint\Progect_Proect1.dll
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.pdb
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\Progect_Proect1.genruntimeconfig.cache
+C:\Users\sergy\Desktop\Progect_Proect1\obj\Debug\net6.0\ref\Progect_Proect1.dll
